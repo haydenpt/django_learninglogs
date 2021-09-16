@@ -3,12 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="12d96fb1-0c77-40e5-bd54-009bbe065710" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/topic.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/topic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/topics.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/topics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/registration/login.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs/templates/learning_logs/base.html" afterDir="false" />
+>>>>>>> 977a2b620e567f7b894c6fe999fc2a1d8f88b30c
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
